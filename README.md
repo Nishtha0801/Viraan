@@ -12,9 +12,6 @@ Viraan is an ecosystem that generates employment and combats waste management an
 - Machine Learning: The model to segregate waste is VGG16. 
 
 ## Idea behind Viraan
-
-
-
 - We are making a flutter app called Viraan, through which users can scan their waste and know what type of waste it is (types of waste: plastic, metal, glass, kitchen waste, paper and Non Biodegradable , Biodegradable) and can even sell their waste through the app 
 - The users get coins on selling their waste which can be later redeemed to avail rewards through our app
 - We have created an ecosystem of 4 primary elements: users, volunteers, Vendors and NGO
@@ -38,6 +35,18 @@ We are trying to solve the following social problems
 ## Future Scope
 1. The app can be deployed on a large scale to combat the societal issues aforementioned.
 2. In future we can also incorporate tracking of the volunteer’s route for picking and delivery of waste and the routes can be optimized for less fuel consumption and a greener route for less carbon footprint
+
+## How to get started locally?
+- Fork and Clone the Repo
+```
+$ git clone https://github.com/Nishtha0801/Viraan.git
+$ cd Viraan
+$ cd viraan
+```
+This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
+
+
+
 
 
 
