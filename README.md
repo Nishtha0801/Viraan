@@ -7,9 +7,9 @@ Viraan is an ecosystem that generates employment and combats waste management an
 <a href="https://www.youtube.com/watch?v=mU-vpal-M_s"> <img src="https://github.com/Nishtha0801/Viraan/blob/main/viraan/assets/images/tree.png" alt="Demo Video" height='300' width='200'/> </a>
 
 ## Tech Stack
-- Figma: The UI/UX design is being created on figma 
-- Flutter: The app is being developed over flutter 
-- Machine Learning: The model to segregate waste is being produced via TensorFlow 
+- Figma: The UI/UX design is being created on figma. 
+- Flutter: The app is being developed over flutter.
+- Machine Learning: The model to segregate waste is VGG16. 
 
 ## Idea behind Viraan
 
@@ -48,3 +48,13 @@ We are trying to solve the following social problems
 | ----- | ---------------------------------------------------------------------------- | ----------------------------- |
 | 1.    | [ML](https://github.com/Nishtha0801/Viraan/tree/main/ML)                     | contains the ML Model         |
 | 2.    | [viraan](https://github.com/Nishtha0801/Viraan/tree/main/viraan)             | Flutter app code base         |
+
+## Team:
+
+| S.No. | Name                  | Role                       | GitHub Username:octocat:                             |
+| ----- | ------------------    | -------------------------- | ---------------------------------------------------- |
+| 1.    | Siddhi Purohit        | Frontend Developer         | [@Siddhi003](https://github.com/Siddhi003)           |
+| 2.    | Gaurisha R Srivastava | Machine Learning Developer | [@Gaurisha21](https://github.com/Gaurisha21)         |
+| 3.    | Nishtha Goyel         | Flutter Developer          | [@Nishtha0801](https://github.com/Nishtha0801)       |
+| 4.    | Vibali Joshi          | Flutter Developer          | [@vibalijoshi](https://github.com/vibalijoshi)       |
+
